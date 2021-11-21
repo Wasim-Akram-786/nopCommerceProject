@@ -1,0 +1,1 @@
+pytest -v -s -m'sanity'  --html=Reports\login.html  Test_Cases/Test_Login_ddt.py --browser chrome
